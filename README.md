@@ -4,9 +4,6 @@
 **Electrical Engineering Undergraduate @ National Taiwan University**
 
 *Robot Learning · Imitation Learning · Vision-Language-Action · Reinforcement Learning*
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ic046262@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanchangb13/)
-
 </div>
 
 ---
@@ -23,6 +20,12 @@ I'm currently a research intern at **Learning Robots** (Paris-Saclay), and a mem
 ## Selected Work
 **[RecoveryDAgger](https://github.com/NTU-RL2025-02/RecoveryDAgger)** &nbsp;·&nbsp; *Python*
 > Query-efficient online imitation learning that trains a **recovery policy** to pull the agent back from out-of-distribution states, cutting the number of expert queries needed to reach a target performance.
+
+## Social
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ic046262@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanchangb13/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)]([https://facebook.com/your-handle](https://www.facebook.com/zhang.sheng.xun.825177))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/shenghsun_chang)
 
 ## Working With
 
