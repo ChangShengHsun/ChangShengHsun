@@ -8,26 +8,27 @@
 
 ---
 
-## About
+## 🧑‍🔬 About
 
 I'm a second-year Electrical Engineering student at **National Taiwan University** working on **learning-based robotics**.
 I'm currently a research intern at **Learning Robots** (Paris-Saclay), and a member of the **NTU Robot Learning Lab**.
 
-## Research Interests
+## 🔬 Research Interests
+
 - **Vision-Language-Action (VLA) models** — grounding perception and language into low-level robot action.
 - **Reinforcement learning** — sample-efficient policy learning for continuous control.
 
-## Selected Work
+## 📄 Selected Work
 **[RecoveryDAgger](https://github.com/NTU-RL2025-02/RecoveryDAgger)** &nbsp;·&nbsp; *Python*
 > Query-efficient online imitation learning that trains a **recovery policy** to pull the agent back from out-of-distribution states, cutting the number of expert queries needed to reach a target performance.
 
-## Social
+## 🔗 Social
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ic046262@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanchangb13/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)]([https://facebook.com/your-handle](https://www.facebook.com/zhang.sheng.xun.825177))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/zhang.sheng.xun.825177/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/shenghsun_chang)
 
-## Working With
+## 🛠️ Working With
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
