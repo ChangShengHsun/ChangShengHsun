@@ -4,7 +4,7 @@
 **Electrical Engineering Undergraduate @ National Taiwan University**
 
 *Robot Learning · Imitation Learning · Vision-Language-Action · Reinforcement Learning*
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ic046262@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ic046262@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanchangb13/)
 
 </div>
