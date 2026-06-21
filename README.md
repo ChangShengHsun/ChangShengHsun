@@ -1,18 +1,9 @@
-<!--
-  Profile README for github.com/ChangShengHsun
-  Repo name MUST be exactly: ChangShengHsun
-  TODO items are marked with  <!-- TODO -->  — fill or delete them before committing.
--->
-
 <div align="center">
 
 # Sheng-Hsun Chang
-
 **Electrical Engineering Undergraduate @ National Taiwan University**
 
 *Robot Learning · Imitation Learning · Vision-Language-Action · Reinforcement Learning*
-
-<!-- TODO: replace the links below with your real ones, or delete the ones you don't have -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ic046262@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanchangb13/)
 
